@@ -19,7 +19,7 @@ public class FirstScript
 		siteTitle = driver.getTitle();
 		
 		System.out.println(siteTitle);
-		
+		System.out.println("Testing of commit update on github");
 		
 		
 		//Search for samir kaneria in google search bar.
