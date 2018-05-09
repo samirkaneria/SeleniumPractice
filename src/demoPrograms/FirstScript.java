@@ -30,7 +30,7 @@ public class FirstScript
 		
 		if (siteTitle.equals("Samir Kaneria - Google Search"))
 		{
-			System.out.println("User successfully redirect on search result page.");
+			System.out.println("User successfully redirect on search result page and commited also.");
 		}
 		else
 		{
